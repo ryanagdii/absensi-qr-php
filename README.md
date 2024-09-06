@@ -21,7 +21,7 @@ Absensi menggunakan QR Code simple dengan php
 
 
 
-# Copyright &copy ryanagdii
+# Social Media
 > Follow me on instagram [ryanagdi](https://instagram.com/ryanagdi)
 
 
