@@ -3,7 +3,7 @@ Absensi menggunakan QR Code simple dengan php
 
 # Installation
 1. Buat database dengan nama absensi_db
-2. import sql absensi_db.sql ke database yang sudah dibuat
+2. import sql absensi_db.sql yang ada di dalam folder **database** ke dalam database yang sudah dibuat
 3. Buka terminal kemudian jalankan perintah composer install
 4. Sudah terinstall
 
