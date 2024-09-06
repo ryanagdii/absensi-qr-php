@@ -1,0 +1,13 @@
+.swal2-icon .swal2-success .swal2-icon-show {
+  background: none !important;
+}
+.swal2-success:before,
+.swal2-success:after {
+  background: none !important;
+}
+
+.swal2-success-circular-line-left,
+.swal2-success-fix,
+.swal2-success-circular-line-right {
+  background: none !important;
+}
